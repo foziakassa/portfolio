@@ -1,4 +1,4 @@
-// File: C:\Users\ekram\Desktop\tel\react\Portfolio-Next\src\app\page.js
+// File: C:\Users\ekram\Desktop\tel\react\first\Portfolio-Next\src\app\page.js
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
