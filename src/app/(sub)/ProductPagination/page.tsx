@@ -10,6 +10,7 @@ import { CollectionQuery } from "../../../models/collection-query.model";
 import { strict } from "assert";
 // import { useLocale, useTranslations } from "next-intl";
 interface ServiceData {
+  title:string;
   name: string;
   description: string;
   coverPage: string;
@@ -96,6 +97,7 @@ const Service = () => {
                     <Card
                       key={index}
                       serviceData={item}
+                      // title={"lll"}
                       onClick={() => handleServiceClick(item)}
                     />
                   </div>
