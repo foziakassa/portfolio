@@ -42,7 +42,7 @@ export default function Home() {
         className="flex items-center justify-center fixed top-16
        lg:top-20 -translate-x-1/2 lg:translate-x-0 -z-10 left-1/2 lg:-left-24 h-screen"
       >
-        <RenderModel>
+        <RenderModel  className="">
           <Staff />
         </RenderModel>
       </div>
