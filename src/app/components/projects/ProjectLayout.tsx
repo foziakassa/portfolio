@@ -50,6 +50,7 @@ const ProjectLayout = (props: ProductProps) => {
       <p className="text-muted sm:text-foreground ">
         {/* {new Date(ProductData?.from).toDateString()} */}
         {ProductData?.technologyUsed}
+        {/*  */}
       </p>
 
     </ProjectLink>
