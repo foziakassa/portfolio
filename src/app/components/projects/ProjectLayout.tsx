@@ -38,14 +38,20 @@ const ProjectLayout = (props: ProductProps) => {
       <div className="flex items-center justify-center space-x-2 
       ">
         <h2 className="text-gray-50 text-xl">{ProductData?.title}</h2>
-        <p className="text-muted sm:text-foreground ">
+        <div className="gap-3 text-sm">
+           <p className="text-gray-200 text-muted sm:text-foreground ">
           {ProductData?.description}</p>
+          <p className="text-accent">{ProductData?.technologyUsed}</p>
+        </div>
+       
       </div>
       {/* <div className="self-end flex-1 mx-2 mb-1 bg-transparent 
       border-b border-dashed border-muted" /> */}
-      <p className="text-muted sm:text-foreground sm:hidden">
-        {new Date(ProductData?.from).toDateString()}
+      <p className="text-muted sm:text-foreground ">
+        {/* {new Date(ProductData?.from).toDateString()} */}
+        {ProductData?.technologyUsed}
       </p>
+
     </ProjectLink>
   );
 };

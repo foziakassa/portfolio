@@ -79,8 +79,8 @@ const mockData = {
      {
       title: "LWIE",
       description: "A web application for to swap and sale what you have for what you need.",
-      technologyUsed: "React, TypeScript",
-      link: "https://example.com/project-one",
+      technologyUsed: "Next.js, TypeScript , Node.js ,PostgerSQL , Render",
+      link: "https://lwie-platform-foziakassas-projects.vercel.app/",
       from: "2024-01-01",
     },
      {
