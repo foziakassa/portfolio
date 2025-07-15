@@ -43,7 +43,7 @@ const ProjectLayout = (props: ProductProps) => {
       </div>
       {/* <div className="self-end flex-1 mx-2 mb-1 bg-transparent 
       border-b border-dashed border-muted" /> */}
-      <p className="text-muted sm:text-foreground hidden">
+      <p className="text-muted sm:text-foreground sm:hidden">
         {new Date(ProductData?.from).toDateString()}
       </p>
     </ProjectLink>
