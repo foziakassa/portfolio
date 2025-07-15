@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 import { link } from "fs";
 import Link from "next/link";
 import ProductPagination from '../../(sub)/ProductPagination/page'
+import { projectsData } from "../../data";
 // import { projectsData } from "../../data";
 
 interface ProductProps {
@@ -26,7 +27,7 @@ const ProjectLayout = (props: ProductProps) => {
     <ProjectLink
       variants={item}
       // href={ProductData?.link}
-      href='../../(sub)/about/page'
+      href={ProductData.link}
       target={"_blank"}
       className=" text-sm md:text-base flex  items-center 
       justify-between w-full relative rounded-lg
@@ -41,7 +42,7 @@ const ProjectLayout = (props: ProductProps) => {
         <div className="gap-3 text-sm">
            <p className="text-gray-200 text-muted sm:text-foreground ">
           {ProductData?.description}</p>
-          <p className="text-accent">{ProductData?.technologyUsed}</p>
+          {/* <p className="text-accent">{ProductData?.technologyUsed}</p> */}
         </div>
        
       </div>
