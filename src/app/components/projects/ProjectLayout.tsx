@@ -34,6 +34,7 @@ const ProjectLayout = (props: ProductProps) => {
        customm-bg custom-bg
         border border-accent/30 "
     >
+      {/*  */}
       <div className="flex items-center justify-center space-x-2 
       ">
         <h2 className="text-gray-50 text-xl">{ProductData?.title}</h2>
