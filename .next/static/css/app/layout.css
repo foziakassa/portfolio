@@ -1231,6 +1231,14 @@ video {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
+.text-gray-400 {
+  --tw-text-opacity: 1;
+  color: rgb(156 163 175 / var(--tw-text-opacity));
+}
+.text-gray-300 {
+  --tw-text-opacity: 1;
+  color: rgb(209 213 219 / var(--tw-text-opacity));
+}
 .antialiased {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -1554,6 +1562,10 @@ video {
 
   .sm\:text-foreground {
     color: rgb(var(--foreground));
+  }
+
+  .sm\:text-muted {
+    color: rgb(var(--muted));
   }
 }
 
