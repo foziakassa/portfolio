@@ -119,7 +119,7 @@ import {
   
                   <span
                     className={clsx(
-                      "absolute hidden peer-hover:block px-2 py-1 left-full mx-2 top-1/2 -translate-y-1/2 bg-background text-foreground text-sm rounded-md shadow-lg whitespace-nowrap",
+                      "absolute  peer-hover:block px-2 py-1 left-full mx-2 top-1/2 -translate-y-1/2 bg-background text-foreground text-sm rounded-md shadow-lg whitespace-nowrap",
                       labelDirection === "left" ? "right-full left-auto" : ""
                     )}
                   >
