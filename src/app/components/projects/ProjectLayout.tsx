@@ -41,8 +41,8 @@ const ProjectLayout = (props: ProductProps) => {
          hidden sm:inline-block text-lg">
           {ProductData?.description}</p> */}
       </div>
-      <div className="self-end flex-1 mx-2 mb-1 bg-transparent 
-      border-b border-dashed border-muted" />
+      {/* <div className="self-end flex-1 mx-2 mb-1 bg-transparent 
+      border-b border-dashed border-muted" /> */}
       <p className="text-muted sm:text-foreground">
         {new Date(ProductData?.from).toDateString()}
       </p>

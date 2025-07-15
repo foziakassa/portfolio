@@ -1,7 +1,9 @@
 "use client";
 
 import Image from "next/image";
-import bg from "../../../../public/background/pppppppproject.jpeg";
+// import bg from "../../../../public/background/pppppppproject.jpeg";
+import bg from '../../../../public/background/R.jpeg'
+
 import ProjectList from "../../components/projects";
 import { projectsData } from "../../data";
 import ProductPagination from '../ProductPagination/page'
