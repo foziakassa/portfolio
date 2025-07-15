@@ -32,9 +32,9 @@ export default function Home() {
       <div className="w-full h-screen">
         <FireFliesBackground/>
         <Navigation />
-        <RenderModel>
+        {/* <RenderModel>
           <Wizard />
-        </RenderModel>
+        </RenderModel> */}
       
       </div>
     </main>
