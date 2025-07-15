@@ -39,7 +39,7 @@ const ProjectLayout = (props: ProductProps) => {
         <h2 className="text-gray-50 text-xl">{ProductData?.title}</h2>
         <p className="text-gray-200
         sm:text-muted
-          hidden sm:inline-block text-sm ">
+           sm:inline-block text-sm ">
           {ProductData?.description}</p>
       </div>
       {/* <div className="self-end flex-1 mx-2 mb-1 bg-transparent 
