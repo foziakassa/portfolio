@@ -23,6 +23,15 @@ export default function Home() {
         fill
         className="-z-50 w-full h-full object-cover object-center opacity-100"
       />
+      <div className="absolute inset-0 flex items-center justify-center -z-10">
+        <h1 className="font-bold  text-6xl xs:text-7xl
+           sm:text-8xl  lg:text-9xl text-accent">
+            FoziaK
+          </h1>
+        
+      </div>
+    
+
       <div
         className="-z-50 w-full h-full object-cover object-center opacity-100"
 
@@ -30,12 +39,13 @@ export default function Home() {
       </div>
 
       <div className="w-full h-screen">
-        <FireFliesBackground/>
+        <FireFliesBackground />
+
         <Navigation />
         {/* <RenderModel>
           <Wizard />
         </RenderModel> */}
-      
+
       </div>
     </main>
   );
