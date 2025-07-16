@@ -46,7 +46,10 @@ const ProjectLayout = (props: ProductProps) => {
         <div className="gap-3 text-sm">
            <p className="text-gray-200 text-muted sm:text-foreground xm:text-foreground">
           {ProductData?.description}</p>
-          {/* <p className="text-accent">{ProductData?.technologyUsed}</p> */}
+          {/* <p className="text-accent">{ProductData?.technologyUsed}</p> 
+          lll
+          
+          */}
         </div>
        
       </div>
