@@ -83,6 +83,13 @@ const mockData = {
       link: "https://lwie-platform-foziakassas-projects.vercel.app/",
       from: "2024-01-01",
     },
+      {
+      title: "LWIE Dashboard",
+      description: "A user-friendly dashboard to manage and track your swaps, sales , charity and advertisment on LWIE.",
+      technologyUsed: "Next.js , Node.js ",
+      link: "https://lwie-platform-foziakassas-projects.vercel.app/",
+      from: "2024-01-01",
+    },
      {
       title: "EMASW",
       description: "A multilingual web application for electronics maintainance and sales",
