@@ -38,9 +38,13 @@ const ProjectLayout = (props: ProductProps) => {
       {/*  */}
       <div className="flex items-center justify-center space-x-2 
       ">
-        <h2 className="text-gray-50 text-xl sm:text-lg">{ProductData?.title}</h2>
+        {/* <h2 className="text-gray-50 text-xl ">{ProductData?.title}</h2> */}
+  <h2 className="text-gray-50 text-xl xm:text-yellow-500 xm:text-sm sm:text-yellow-500 sm:text-sm">
+  {ProductData?.title}
+</h2>
+
         <div className="gap-3 text-sm">
-           <p className="text-gray-200 text-muted sm:text-foreground ">
+           <p className="text-gray-200 text-muted sm:text-foreground xm:text-foreground">
           {ProductData?.description}</p>
           {/* <p className="text-accent">{ProductData?.technologyUsed}</p> */}
         </div>
