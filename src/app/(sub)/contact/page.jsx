@@ -29,7 +29,7 @@ export default function Contact() {
           </h1>
           <p className="text-center font-light text-sm xs:text-base text-gray-200">
            I would love to hear from you! Whether you have questions, feedback, or collaboration opportunities, feel free to reach out.
-           If you're interested in discussing a project or want to explore potential collaborations, please include any relevant details in your message.
+           If you are interested in discussing a project or want to explore potential collaborations, please include any relevant details in your message.
           </p>
         </div>
         <Form />
