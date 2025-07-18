@@ -96,7 +96,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "https://www.canva.com/design/DAGrlrlPSSU/4ei2TkcjJd9xe1OG0goHnA/view?utm_content=DAGrlrlPSSU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he8eb32f71c",
+    link: "https://www.canva.com/design/DAGrlrlPSSU/a-UP-0r76D3QNOheQQgAKQ/edit?utm_content=DAGrlrlPSSU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
     icon: "resume",
     newTab: true,
   },

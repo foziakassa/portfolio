@@ -39,7 +39,7 @@ const ProjectLayout = (props: ProductProps) => {
       <div className="flex items-center justify-center space-x-2 
       ">
         {/* <h2 className="text-gray-50 text-xl ">{ProductData?.title}</h2> */}
-  <h2 className="text-gray-50 text-xl xm:text-yellow-500 xm:text-sm sm:text-yellow-500 sm:text-sm">
+  <h2 className="text-gray-50 text-xl xm:text-accent xm:text-sm sm:text-accent sm:text-sm">
   {ProductData?.title}
 </h2>
 
