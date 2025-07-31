@@ -19,11 +19,14 @@ const AboutDetails = () => {
             className=" text-xl md:text-2xl text-left w-full capitalize
            text-accent font-semibold "
           >
-            Front-end Developer , Graphics Designer
+            Full-stack Developer
           </h2>
           <p className="font-light text-xl sm:text-sm md:text-lg text-gray-200 ">
-            My journey in web development is driven by a variety of powerful tools and languages, with JavaScript at the core of my work. I utilize frameworks like React.js, Next.js, and Angular to build seamless websites that connect users across the digital landscape.
+          
+          My journey in web development revolves around JavaScript, using frameworks like React.js, Next.js, and Angular to create engaging websites. On the back end, I work with Node.js and Express, along with PostgreSQL for managing data.
+          
           </p>
+
           <p className="font-light text-xl sm:text-sm md:text-lg text-gray-200">
             I focus on creating fast, secure, and dynamic web experiences, while my design skills ensure that each project is both functional and visually appealing. I am always eager to explore new technologies and enhance my skills to help shape the future of the web.
           </p>
