@@ -1,4 +1,4 @@
-// File: C:\Users\ekram\Documents\portfolio\src\app\(sub)\about\page.jsx
+// File: /Users/mac/Documents/development/untitled folder/untitled folder/portfolio/src/app/(sub)/about/page.jsx
 import * as entry from '../../../../../src/app/(sub)/about/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
