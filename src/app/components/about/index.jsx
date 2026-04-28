@@ -88,7 +88,7 @@ const AboutDetails = () => {
         <ItemLayout className={"col-span-full"}>
           <img
             className="w-full h-auto"
-            src={`https://skillicons.dev/icons?i=react,next,css,docker,figma,git,github,graphql,html,js,jquery,mongodb,mysql,nextjs,nodejs,npm,postgres,tailwind,threejs,vscode,dart,java,angular,flutter`}
+            src={`https://skillicons.dev/icons?i=react,next,flutter,css,docker,figma,git,github,graphql,html,js,jquery,mongodb,mysql,nextjs,nodejs,npm,postgres,tailwind,threejs,vscode,dart,java,angular`}
             alt="fozia"
             loading="lazy"
           />
@@ -99,11 +99,11 @@ const AboutDetails = () => {
 
         <ItemLayout className={"col-span-full md:col-span-6 flex-col "}>
           <p className="font-semibold w-full text-accent text-2xl sm:text-2xl">
-            most preferd framework
+            Most Preferd Framework
           </p>
           <img
             className="w-full h-auto"
-            src={`https://skillicons.dev/icons?i=next,react,postgresql,mysql,figma,nextjs,nodejs,tailwind,angular,flutter`}
+            src={`https://skillicons.dev/icons?i=next,react,flutter,postgresql,mysql,figma,nextjs,nodejs,tailwind,angular`}
             alt="CodeBucks"
             loading="lazy"
           />
