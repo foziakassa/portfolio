@@ -61,7 +61,7 @@ export function Expriance3(){
           text-xl sm:text-sm md:text-lg text-gray-200 ">
             {/* {data.data[1].description} */}
             Frontend Developer & Mobile App Developer
-import 'package:emebet/bloc/edit_bloc/edit_bloc.dart';
+
 Company: Vintage Technologies
 Technologies Used: React.js, Flutter.js
             </sub>
