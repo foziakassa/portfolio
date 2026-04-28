@@ -93,7 +93,7 @@ const mockData = {
       title: "LWIE Dashboard",
       description: "A user-friendly dashboard to manage and track swaps, sales, charity and advertisment on LWIE.",
       technologyUsed: "Next.js , Node.js ",
-      link: "https://lwie-platform-foziakassas-projects.vercel.app/",
+      link: "https://lwiedashboard.vercel.app/login",
       from: "2024-01-01",
     },
      {
@@ -146,6 +146,7 @@ const ProjectList = () => {
     >
       {data.data.map((item, index) => (
         <ProjectLayout ProductData={item} key={index} />
+        
       ))}
     </motion.div>
   );
