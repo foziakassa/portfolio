@@ -2,8 +2,10 @@ import React from "react";
 import ItemLayout from "./ItemLayout";
 import Link from "next/link";
 import Education from "./education";
-import {Expriance} from "./experiance";
+import { Expriance } from "./experiance";
 import { Expriance2 } from "./experiance";
+import { Expriance3 } from "./experiance";
+
 import Tech from "./tech";
 
 const AboutDetails = () => {
@@ -15,20 +17,24 @@ const AboutDetails = () => {
             " col-span-full lg:col-span-8 row-span-2 flex-col items-start"
           }
         >
-          <h2
-            className=" text-xl md:text-2xl text-left w-full capitalize
-           text-accent font-semibold "
-          >
-            Full-stack Developer
+          <h2 className="text-xl md:text-2xl text-left w-full capitalize text-accent font-semibold">
+            Software Engineer
           </h2>
-          <p className="font-light text-xl sm:text-sm md:text-lg text-gray-200 ">
-          
-          My journey in web development revolves around JavaScript, using frameworks like React.js, Next.js, and Angular to create engaging websites. On the back end, I work with Node.js and Express, along with PostgreSQL for managing data.
-          
+
+          <p className="font-light text-xl sm:text-sm md:text-lg text-gray-200">
+            Software Engineer with experience building dynamic, responsive web
+            applications and mobile apps using Next.js, React.js, Flutter,
+            Angular, Express.js, PostgreSQL and Node.js. Skilled in JavaScript,
+            Dart, and TypeScript, with a strong focus on delivering
+            high-quality, maintainable code.
           </p>
 
           <p className="font-light text-xl sm:text-sm md:text-lg text-gray-200">
-            I focus on creating fast, secure, and dynamic web experiences, while my design skills ensure that each project is both functional and visually appealing. I am always eager to explore new technologies and enhance my skills to help shape the future of the web.
+            Passionate about learning and contributing to collaborative teams.
+            Experienced in building modern web and mobile applications with a
+            strong focus on clean, maintainable code and responsive design.
+            Always eager to explore new technologies and help shape the future
+            of the web.
           </p>
         </ItemLayout>
 
@@ -44,7 +50,7 @@ const AboutDetails = () => {
           className={"col-span-full xs:col-span-6 lg:col-span-4 text-accent"}
         >
           <p className="font-semibold w-full text-left text-2xl sm:text-5xl">
-            2+{" "}
+            1+{" "}
             <sub className="font-semibold text-base">years of experience</sub>
           </p>
         </ItemLayout>
@@ -57,25 +63,26 @@ const AboutDetails = () => {
           
         </ItemLayout> */}
 
-      
+        <ItemLayout
+          className={" col-span-full xs:col-span-6 lg:col-span-4 text-accent"}
+        >
+          <Expriance />
+        </ItemLayout>
 
         <ItemLayout
           className={" col-span-full xs:col-span-6 lg:col-span-4 text-accent"}
         >
-        <Expriance/>
-          
+          <Expriance2 />
         </ItemLayout>
-
         <ItemLayout
-         className={" col-span-full xs:col-span-6 lg:col-span-4 text-accent"}
-         >
-           
-           <Expriance2/>
-        </ItemLayout>
-          <ItemLayout
           className={" col-span-full xs:col-span-6 lg:col-span-4 text-accent"}
         >
-        <Education/>
+          <Expriance3 />
+        </ItemLayout>
+        <ItemLayout
+          className={" col-span-full xs:col-span-6 lg:col-span-4 text-accent"}
+        >
+          <Education />
         </ItemLayout>
 
         <ItemLayout className={"col-span-full"}>
@@ -90,12 +97,11 @@ const AboutDetails = () => {
           <Tech/>
         </ItemLayout> */}
 
-
         <ItemLayout className={"col-span-full md:col-span-6 flex-col "}>
-        <p className="font-semibold w-full text-accent text-2xl sm:text-2xl">
-
-        most preferd framework</p>
-        <img
+          <p className="font-semibold w-full text-accent text-2xl sm:text-2xl">
+            most preferd framework
+          </p>
+          <img
             className="w-full h-auto"
             src={`https://skillicons.dev/icons?i=next,react,postgresql,mysql,figma,nextjs,nodejs,tailwind,angular,flutter`}
             alt="CodeBucks"

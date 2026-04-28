@@ -56,7 +56,7 @@ export function Expriance3(){
   return(
       <div className="">
           <p className="font-semibold w-full text-left text-2xl 
-        sm:text-2xl"> Augest/202s-Precent<br/>
+        sm:text-2xl"> Augest/2025-Precent<br/>
           <sub className="font-light 
           text-xl sm:text-sm md:text-lg text-gray-200 ">
             {/* {data.data[1].description} */}
