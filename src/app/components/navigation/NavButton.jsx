@@ -95,7 +95,6 @@ import {
                 </span>
               </NavLink>
             </div>
-            
           ) : (
 
             // for small size

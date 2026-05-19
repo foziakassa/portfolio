@@ -44,7 +44,7 @@ const Navigation = () => {
                 const x = `calc(${radius}*${Math.cos(angleRad)})`;
                 const y = `calc(${radius}*${Math.sin(angleRad)})`;
 
-return <NavButton key={btn.label} x={x} y={y} index={index} {...btn} />;
+                return <NavButton key={btn.label} x={x} y={y} {...btn} />;
               })}
             </motion.div>
           ) : (
@@ -71,7 +71,7 @@ return <NavButton key={btn.label} x={x} y={y} index={index} {...btn} />;
                     return (
                       <NavButton
                         key={btn.label}
-                        
+                        // sequenceIndex={index}
                         x={0}
                         y={0}
                         {...btn}
