@@ -34,7 +34,7 @@ const AboutDetails = () => {
             Experienced in building modern web and mobile applications with a
             strong focus on clean, maintainable code and responsive design.
             Always eager to explore new technologies and help shape the future
-            of the web.
+           .
           </p>
         </ItemLayout>
 

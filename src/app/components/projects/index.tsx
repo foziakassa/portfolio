@@ -74,7 +74,42 @@ const container = {
 
 const mockData = {
   data: [
-    
+   
+     {
+      title: "Emebet",
+      description: "participate in emebet job matching mobile app and dashbored under Vintage Technologies ",
+      technologyUsed: "Flutter,  React.js",
+      link: "",
+      from: "2025-10-10",
+    },
+     {
+      title: "Linq transport",
+      description: "participate in Linq driver app and dashboard under Vintage Technologies.",
+      technologyUsed: "Flutter , React.js ",
+      link: "",
+      from: "2025-10-10",
+    },
+{
+      title: "kabba transport",
+      description: "participate in kabba passanger app and dashboard under Vintage Technologies.",
+      technologyUsed: "Flutter , React.js ",
+      link: "",
+      from: "2025-10-10",
+    },
+    {
+      title: "tuteapp",
+      description: "participate in tuteapp educational social media app  under Vintage Technologies.",
+      technologyUsed: "Flutter ",
+      link: "",
+      from: "2025-10-10",
+    },
+    {
+      title: "Maraki",
+      description: "participate in Maraki dating media app  under Vintage Technologies.",
+      technologyUsed: "Flutter ",
+      link: "",
+      from: "2025-10-10",
+    },
     {
       title: "Comercial Website",
       description: "A commercial website for a local business to showcase their products and services.",

@@ -46,7 +46,7 @@ export default function Education(){
         sm:text-2xl">
          Education <br/> <sub className="font-light 
           text-xl sm:text-sm md:text-lg text-gray-200 ">
-           Bachelor Degree in Science in Software Engineering
+           Bachelor Degree of Science in Software Engineering
 , Adama Science and Technology University (ASTU)
             </sub>
         </p>

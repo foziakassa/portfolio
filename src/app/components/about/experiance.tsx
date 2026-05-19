@@ -21,7 +21,7 @@ export  function Expriance(){
           sm:text-2xl"> June/2023-september/2023<br/>
             <sub className="font-light 
             text-xl sm:text-sm md:text-lg text-gray-200 ">
-              Frontend Development Intern
+              Frontend Developer Intern
 Company: Perago Information Solutions
 Technologies Used: Angular Framework
               </sub>
@@ -42,7 +42,7 @@ export function Expriance2(){
             <sub className="font-light 
             text-xl sm:text-sm md:text-lg text-gray-200 ">
               {/* {data.data[1].description} */}
-              Frontend Development Intern
+              Frontend Developer Intern
 Company: Kachamale Technologies
 Technologies Used: Next.js, Node.js
               </sub>
@@ -60,7 +60,7 @@ export function Expriance3(){
           <sub className="font-light 
           text-xl sm:text-sm md:text-lg text-gray-200 ">
             {/* {data.data[1].description} */}
-            Frontend Developer & Mobile App Developer
+            Mobile Application Developer & Frontend Developer 
 
 Company: Vintage Technologies
 Technologies Used: React.js, Flutter.js
