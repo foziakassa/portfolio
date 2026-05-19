@@ -2,12 +2,6 @@
 
 'use client'
 
-import ItemLayout from "./ItemLayout";
- import useSwr from "swr";
-import fetcher from '../../../shared/utils/fetcher';
-import { CollectionQuery } from "../../../models/collection-query.model";
-
-
 
 export  function Expriance(){
   
@@ -56,14 +50,14 @@ export function Expriance3(){
   return(
       <div className="">
           <p className="font-semibold w-full text-left text-2xl 
-        sm:text-2xl"> Augest/2025-Precent<br/>
+        sm:text-2xl"> Augest/2025-May/2026<br/>
           <sub className="font-light 
           text-xl sm:text-sm md:text-lg text-gray-200 ">
             {/* {data.data[1].description} */}
             Mobile Application Developer & Frontend Developer 
 
 Company: Vintage Technologies
-Technologies Used: React.js, Flutter.js
+Technologies Used:Flutter.js , React.js
             </sub>
         </p>
 
