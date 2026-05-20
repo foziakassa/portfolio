@@ -4,13 +4,14 @@ import Image from "next/image";
 // import bg from "../../../../public/background/pppppppproject.jpeg";
 import bg from '../../../../public/background/R.jpeg'
 
-import ProjectList from "../../components/projects";
+// import ProjectList from "../../components/projects";
 import { projectsData } from "../../data";
 import ProductPagination from '../ProductPagination/page'
 
 import RenderModel from "../../components/RenderModel";
 import dynamic from "next/dynamic";
 import FireFliesBackground from "../../components/FireFliesBackground";
+import ProjectList from "../../components/projects/page";
 
 const Staff = dynamic(() => import("../../components/models/Staff"), {
   ssr: false,
