@@ -33,10 +33,6 @@
    
 // }
 'use client'
- import useSwr from "swr";
-import fetcher from '../../../shared/utils/fetcher';
-import { CollectionQuery } from "../../../models/collection-query.model";
-
 
 export default function Education(){
    

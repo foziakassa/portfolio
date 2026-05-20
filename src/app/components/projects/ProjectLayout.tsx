@@ -12,6 +12,7 @@ interface ProductProps {
     technologyUsed?:string;
     link:string;
     from:string;
+     id ? : number ; 
   };
 }
 const item = {
@@ -27,7 +28,11 @@ const ProjectLayout = (props: ProductProps) => {
     <ProjectLink
       variants={item}
       // href={ProductData?.link}
-      href={ProductData.link}
+      // href={ProductData.link}
+    
+            href= {ProductData?.id != null ?
+              `/projects/${ProductData.id }` 
+              :`${ProductData?.link}`} 
       target={"_blank"}
       className=" text-sm md:text-base flex  items-center 
       justify-between w-full relative rounded-lg
@@ -42,6 +47,9 @@ const ProjectLayout = (props: ProductProps) => {
   <h2 className="text-gray-50 text-xl xm:text-accent xm:text-sm sm:text-accent sm:text-sm">
   {ProductData?.title}
 </h2>
+ {/* <h2 className="text-gray-50 text-xl xm:text-accent xm:text-sm sm:text-accent sm:text-sm">
+  {ProductData?.id}
+</h2> */}
 
         <div className="gap-3 text-sm">
            <p className="text-gray-200 text-muted sm:text-foreground xm:text-foreground">
