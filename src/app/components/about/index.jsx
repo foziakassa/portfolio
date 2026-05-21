@@ -22,8 +22,8 @@ const AboutDetails = () => {
           </h2>
 
           <p className="font-light text-xl sm:text-sm md:text-lg text-gray-200">
-            Software Engineer with experience building dynamic, responsive web
-            applications and mobile apps using Next.js, React.js, Flutter,
+            Software Engineer with experience building mobile applications and  dynamic, responsive web
+            applications using Next.js, React.js, Flutter,
             Angular, Express.js, PostgreSQL and Node.js. Skilled in JavaScript,
             Dart, and TypeScript, with a strong focus on delivering
             high-quality, maintainable code.

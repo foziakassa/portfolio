@@ -107,15 +107,9 @@ const mockData = {
       link: "",
       from: "2025-10-10",
     },
+   
     {
-      id : 5 , 
-      title: "Maraki",
-      description: "participate in Maraki dating media app  under Vintage Technologies.",
-      technologyUsed: "Flutter ",
-      link: "",
-      from: "2025-10-10",
-    },
-    {
+      id: 5, 
       title: "Comercial Website",
       description: "A commercial website for a local business to showcase their products and services.",
       technologyUsed: "Next.js , Node.js ",
@@ -123,6 +117,7 @@ const mockData = {
       from: "2025-9-10",
     },
      {
+      id: 6 , 
       title: "LWIE",
       description: "A web-based platform for to swap and sale what you have for what you need.",
       technologyUsed: "Next.js , Node.js ",
@@ -130,6 +125,7 @@ const mockData = {
       from: "2024-3-10",
     },
       {
+        id: 7 , 
       title: "LWIE Dashboard",
       description: "A user-friendly dashboard to manage and track swaps, sales, charity and advertisment on LWIE.",
       technologyUsed: "Next.js , Node.js ",
@@ -137,6 +133,7 @@ const mockData = {
       from: "2024-01-01",
     },
      {
+      id : 8  , 
       title: "EMASW",
       description: "A multilingual web application for electronics maintainance and sales",
       technologyUsed: "Next.js , Node.js , i18n",
@@ -144,20 +141,16 @@ const mockData = {
       from: "2024-01-01",
     },
      {
+      id : 9 , 
       title: "Developer portfolio",
       description: "Profetional developer portfolip templet.",
       technologyUsed: "Next, TypeScript",
       link: "https://portio-foziakassas-projects.vercel.app/",
       from: "2024-01-01",
     },
-    {
-      title: "Currency COnverter",
-      description: "mobile app for currency conversion.",
-      technologyUsed: "Flutter ",
-      link: "https://github.com/foziakassa/curruncy-converter.git",
-      from: "2024-01-01",
-    },
+   
      {
+      id : 10 , 
       title: "Ethiopian Calander",
       description: "moblie app for ethiopian calander.",
       technologyUsed: "Flutter ",
@@ -165,6 +158,7 @@ const mockData = {
       from: "2024-01-01",
     },
     {
+      id : 11 , 
       title: "Employee Management",
       description: "A web-based hierarchical tree view for an employee management system",
       technologyUsed: "Angular ",
