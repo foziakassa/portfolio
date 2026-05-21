@@ -139,7 +139,7 @@ export default function ProjectDetail({ params }: ProjectPageProps) {
       />
       <main className="flex min-h-screen flex-col items-center justify-center px-8 xs:px-16 lg:px-32 py-10">
             <ProjectBtn />
-             <div className="relative z-10 min-h-screen flex items-center justify-center p-4 sm:mx-3 md:mx-36">
+             <div className="relative z-10 min-h-screen flex items-center justify-center p-4 sm:mx-0 md:mx-36">
         <div className=" custom-bg
         border border-accent/30 backdrop-blur-md rounded-2xl p-8  ">
          
