@@ -33,7 +33,7 @@ const ProjectLayout = (props: ProductProps) => {
             href= {ProductData?.id != null ?
               `/projects/${ProductData.id }` 
               :`${ProductData?.link}`} 
-      target={"_blank"}
+      // target={"_blank"}
       className=" text-sm md:text-base flex  items-center 
       justify-between w-full relative rounded-lg
        overflow-hidden p-4 md:p-6 
