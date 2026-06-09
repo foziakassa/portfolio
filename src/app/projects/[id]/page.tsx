@@ -27,7 +27,7 @@ const mockData = {
       title: "Linq transport",
       description: "At Vintage Technologies, I participated in Linq transport solution — a driver app, an internal admin dashboard, and a separate dashboard for transport companies. This project gave me end-to-end experience in both mobile and web platforms for a real-world logistics ecosystem",
       technologyUsed: "Flutter, React.js",
-       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
+       skillgained :" I learned how transport companies work—the overall logic and key concepts—and became familiar with the processes.I also gained new implementation techniques for background driver location tracking, including how to manage it on Android and iOS." , 
 
 
       link: "",
@@ -38,7 +38,8 @@ const mockData = {
       id: 3,
       title: "kabba transport",
       description: "At Vintage Technologies, I participated in building the Kabba transport system — a passanger app and an administrative dashboard. This project gave me hands-on experience in developing solutions for a real-world transport platform.",
-       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
+            skillgained :" I learned how transport companies work—the overall logic and key concepts—and became familiar with the processes.I also gained new implementation techniques for background driver location tracking, including how to manage it on Android and iOS." , 
+
 
       technologyUsed: "Flutter, React.js",
       link: "",
@@ -49,7 +50,7 @@ const mockData = {
       id: 4,
       title: "tuteapp",
       description: "I contributed to tuteapp, an educational social media app under Vintage Technologies, where I helped build features for user interaction, content sharing, and community learning — bridging the gap between education and social connectivity.",
-       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
+       skillgained :"I learned how to implement real-time chat for social media platforms and identified a market gap in connecting students with their parents, teachers, and schools. I also utilized deep linking and Firebase integration for push notifications. " , 
 
       technologyUsed: "Flutter",
       link: "",
@@ -73,7 +74,7 @@ const mockData = {
       description: "We built a web-based platform (ልዋጭ) that allows users to swap, sell, and post products and services — enabling people to exchange what they have for what they need through listings, search filters, and user interaction tools.",
       technologyUsed: "Next.js, Node.js",
       link: "https://lwie-platform-foziakassas-projects.vercel.app/",
-       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
+       skillgained :"A great opportunity to learn Next.js and express my role in backend development and API integration. I deep-dived into Next.js and Node.js, gained familiarity with database hosting on Render, handled API and website deployment on Vercel, and integrated Chapa payment gateway." , 
 
       from: "2024-3-10",
     },
@@ -83,7 +84,8 @@ const mockData = {
       description: "We built a user-friendly dashboard to manage and track swaps, sales, charity, and advertisements on LWIE — providing centralized control over listings, transactions, donations, and ad performance",
       technologyUsed: "Next.js, Node.js",
       link: "https://lwiedashboard.vercel.app/login",
-       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
+             skillgained :"A great opportunity to learn Next.js and express my role in backend development and API integration. I deep-dived into Next.js and Node.js, gained familiarity with database hosting on Render, handled API and website deployment on Vercel, and integrated Chapa payment gateway." , 
+
 
       from: "2024-03-01",
     },
@@ -93,7 +95,6 @@ const mockData = {
       description: "I built a multilingual web application for electronics maintenance and sales — supporting Amharic, Tigrigna, Afan Oromo, and Somali — featuring service requests, product listings, and repair tracking for broader accessibility across Ethiopia.",
       technologyUsed: "Next.js, Node.js, i18n",
       link: "https://github.com/foziakassa/electronics-maintainance-andsala-website.git",
-       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
 
       from: "2024-01-01",
     },
@@ -114,8 +115,6 @@ const mockData = {
       description: "I built a mobile app for the Ethiopian calendar — featuring date conversion between Ethiopian and Gregorian calendars, holiday listings, and event reminders.",
       technologyUsed: "Flutter",
       link: "https://github.com/foziakassa/ethiopian-calander.git",
-       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
-
       from: "2024-01-01",
     },
     {
