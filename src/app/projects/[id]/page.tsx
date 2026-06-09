@@ -13,6 +13,7 @@ const mockData = {
       id: 1,
       title: "emebet Job",
       description: "Contributed to the development of emebet, a job matching my role was as a mobile application developer and maintaining admin dashborsed, under Vintage Technologies.",
+       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
       technologyUsed: "Flutter, React.js",
       link: "",
 
@@ -26,6 +27,8 @@ const mockData = {
       title: "Linq transport",
       description: "At Vintage Technologies, I participated in Linq transport solution — a driver app, an internal admin dashboard, and a separate dashboard for transport companies. This project gave me end-to-end experience in both mobile and web platforms for a real-world logistics ecosystem",
       technologyUsed: "Flutter, React.js",
+       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
+
 
       link: "",
      from: "2025-8-20",
@@ -35,6 +38,7 @@ const mockData = {
       id: 3,
       title: "kabba transport",
       description: "At Vintage Technologies, I participated in building the Kabba transport system — a passanger app and an administrative dashboard. This project gave me hands-on experience in developing solutions for a real-world transport platform.",
+       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
 
       technologyUsed: "Flutter, React.js",
       link: "",
@@ -45,6 +49,7 @@ const mockData = {
       id: 4,
       title: "tuteapp",
       description: "I contributed to tuteapp, an educational social media app under Vintage Technologies, where I helped build features for user interaction, content sharing, and community learning — bridging the gap between education and social connectivity.",
+       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
 
       technologyUsed: "Flutter",
       link: "",
@@ -57,6 +62,8 @@ const mockData = {
       title: "Comercial Website",
       description: "I built a commercial website for a local business to showcase their products and services with a responsive design, product galleries, and easy customer access to business information",
       technologyUsed: "Next.js, Node.js",
+       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
+
       link: "https://commercial-advertisement-web.vercel.app/",
       from: "2025-9-10",
     },
@@ -66,6 +73,8 @@ const mockData = {
       description: "We built a web-based platform (ልዋጭ) that allows users to swap, sell, and post products and services — enabling people to exchange what they have for what they need through listings, search filters, and user interaction tools.",
       technologyUsed: "Next.js, Node.js",
       link: "https://lwie-platform-foziakassas-projects.vercel.app/",
+       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
+
       from: "2024-3-10",
     },
     {
@@ -74,6 +83,8 @@ const mockData = {
       description: "We built a user-friendly dashboard to manage and track swaps, sales, charity, and advertisements on LWIE — providing centralized control over listings, transactions, donations, and ad performance",
       technologyUsed: "Next.js, Node.js",
       link: "https://lwiedashboard.vercel.app/login",
+       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
+
       from: "2024-03-01",
     },
     {
@@ -82,6 +93,8 @@ const mockData = {
       description: "I built a multilingual web application for electronics maintenance and sales — supporting Amharic, Tigrigna, Afan Oromo, and Somali — featuring service requests, product listings, and repair tracking for broader accessibility across Ethiopia.",
       technologyUsed: "Next.js, Node.js, i18n",
       link: "https://github.com/foziakassa/electronics-maintainance-andsala-website.git",
+       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
+
       from: "2024-01-01",
     },
     {
@@ -90,6 +103,8 @@ const mockData = {
       description: "A clean, formal developer portfolio template designed to showcase technical skills, work experience, and client projects — featuring organized sections for project highlights, tech stacks, and professional contact information.",
       technologyUsed: "Next, TypeScript",
       link: "https://portio-foziakassas-projects.vercel.app/",
+       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
+
       from: "2024-01-01",
     },
    
@@ -99,6 +114,8 @@ const mockData = {
       description: "I built a mobile app for the Ethiopian calendar — featuring date conversion between Ethiopian and Gregorian calendars, holiday listings, and event reminders.",
       technologyUsed: "Flutter",
       link: "https://github.com/foziakassa/ethiopian-calander.git",
+       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
+
       from: "2024-01-01",
     },
     {
@@ -107,6 +124,8 @@ const mockData = {
       description: "I built a web-based hierarchical tree view for an employee management system — displaying organizational structure with expandable nodes, employee details, and reporting relationships for easy navigation.",
       technologyUsed: "Angular",
       link: "https://github.com/foziakassa/hierarchical-tree-view.git",
+       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
+
       from: "2024-01-01",
     },
   ]
@@ -161,6 +180,12 @@ export default function ProjectDetail({ params }: ProjectPageProps) {
             <h2 className="text-2xl font-semibold text-white mb-2">Description</h2>
             <p className="text-gray-300 leading-relaxed">
               {project.description}
+            </p>
+          </div>
+           <div className="mb-6">
+           
+            <p className="text-gray-300 leading-relaxed">
+              {project?.skillgained}
             </p>
           </div>
            {/* my role  */}
