@@ -1,4 +1,4 @@
-// File: /Users/mac/Documents/development/untitled folder/untitled folder/portfolio/src/app/(sub)/projects/page.tsx
+// File: C:\Users\ekram\Documents\web\portfolio\src\app\(sub)\projects\page.tsx
 import * as entry from '../../../../../src/app/(sub)/projects/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

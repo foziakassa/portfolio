@@ -1,4 +1,4 @@
-// File: /Users/mac/Documents/development/untitled folder/untitled folder/portfolio/src/app/page.js
+// File: C:\Users\ekram\Documents\web\portfolio\src\app\page.js
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
