@@ -221,7 +221,7 @@ export default function ProjectDetail({ params }: ProjectPageProps) {
           {/* Live Link */}
           {project.link ?(
             <div>
-              <h2 className="text-2xl font-semibold text-white mb-2">Project Linq</h2>
+              <h2 className="text-2xl font-semibold text-white mb-2">Project Link</h2>
               <a 
                 href={project.link}
                 target="_blank"
