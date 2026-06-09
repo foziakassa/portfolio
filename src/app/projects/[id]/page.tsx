@@ -38,7 +38,7 @@ const mockData = {
       id: 3,
       title: "kabba transport",
       description: "At Vintage Technologies, I participated in building the Kabba transport system — a passanger app and an administrative dashboard. This project gave me hands-on experience in developing solutions for a real-world transport platform.",
-            skillgained :" I learned how transport companies work—the overall logic and key concepts—and became familiar with the processes.I also gained new implementation techniques for background driver location tracking, including how to manage it on Android and iOS." , 
+     skillgained :" I learned how transport companies work—the overall logic and key concepts—and became familiar with the processes.I also gained new implementation techniques for background driver location tracking, including how to manage it on Android and iOS." , 
 
 
       technologyUsed: "Flutter, React.js",
@@ -63,7 +63,6 @@ const mockData = {
       title: "Comercial Website",
       description: "I built a commercial website for a local business to showcase their products and services with a responsive design, product galleries, and easy customer access to business information",
       technologyUsed: "Next.js, Node.js",
-       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
 
       link: "https://commercial-advertisement-web.vercel.app/",
       from: "2025-9-10",
@@ -104,7 +103,6 @@ const mockData = {
       description: "A clean, formal developer portfolio template designed to showcase technical skills, work experience, and client projects — featuring organized sections for project highlights, tech stacks, and professional contact information.",
       technologyUsed: "Next, TypeScript",
       link: "https://portio-foziakassas-projects.vercel.app/",
-       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
 
       from: "2024-01-01",
     },
@@ -123,7 +121,6 @@ const mockData = {
       description: "I built a web-based hierarchical tree view for an employee management system — displaying organizational structure with expandable nodes, employee details, and reporting relationships for easy navigation.",
       technologyUsed: "Angular",
       link: "https://github.com/foziakassa/hierarchical-tree-view.git",
-       skillgained :"In addition to facing real-world project problems and enhancing my mobile application development skills through this project, I gained new skills such as Ethiopia National ID integration, handling WebViews in a mobile app using a plugin, understanding how job-matching platforms work, gaining knowledge of Flutter Web applications, and implementing payment integration and Mandate concept." , 
 
       from: "2024-01-01",
     },
