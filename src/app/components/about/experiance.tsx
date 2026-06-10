@@ -37,18 +37,23 @@ export function Expriance2(){
             text-xl sm:text-sm md:text-lg text-gray-200 ">
               {/* {data.data[1].description} */}
               Frontend Developer Intern
-Company: Kachamale Technologies
-Technologies Used: Next.js, Node.js
+{/* Company: Kachamale Technologies
+Technologies Used: Next.js, Node.js */}
               </sub>
               
           </p>
+            <sub className="font-light 
+            text-xl sm:text-sm md:text-lg text-gray-200 ">
+              {/* {data.data[1].description} */}
+             
+Company: Kachamale Technologies
+
+              </sub>
           
             <sub className="font-light 
             text-xl sm:text-sm md:text-lg text-gray-200 ">
               {/* {data.data[1].description} */}
-              Frontend Developer Intern
-Company: Kachamale Technologies
-Technologies Used: Next.js, Node.js
+           Technologies Used: Next.js, Node.js
               </sub>
               
         
