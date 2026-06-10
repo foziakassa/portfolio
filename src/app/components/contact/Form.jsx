@@ -70,6 +70,7 @@
 
 
 "use client";
+import { Resend } from 'resend';
 
 import React, { useState } from "react";
 import { motion } from "framer-motion";
@@ -95,10 +96,19 @@ export default function Form() {
     event.preventDefault();
     const formData = new FormData(event.target);
     setStatus("sending...");
-    const res = await sendEmail(formData);
+    // const res = await sendEmail(formData);
+    const resend = new Resend('re_LHPkhNGb_MkGsajigUiWX54FVGopwvTDu');
+
+await resend.emails.send({
+  from: 'Acme <onboarding@resend.dev>',
+  to: ['foziakassa19@gmail.com'],
+  subject: 'hello world',
+  html: '<p>it works!</p>',
+});
     if (res?.success) setStatus("Sent successfully!");
     else setStatus("Error: " + (res?.error || "Unknown error"));
   }
+  
 
   return (
     <form
