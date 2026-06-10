@@ -38,7 +38,7 @@ export function Expriance2(){
               {/* {data.data[1].description} */}
               Frontend Developer Intern
 Company: Kachamale Technologies
-// Technologies Used: Next.js, Node.js
+ Technologies Used: Next.js, Node.js
               </sub>
               
           </p>
