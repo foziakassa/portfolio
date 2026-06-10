@@ -40,6 +40,12 @@ export function Expriance2(){
 Company: Kachamale Technologies
 Technologies Used: Next.js, Node.js
               </sub>
+               <sub className="font-light 
+            text-xl sm:text-sm md:text-lg text-gray-200 ">
+              {/* {data.data[1].description} */}
+           
+Company: Kachamale Technologies
+              </sub>
           </p>
 
         </div>
