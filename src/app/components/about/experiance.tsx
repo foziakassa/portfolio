@@ -40,6 +40,17 @@ export function Expriance2(){
 Company: Kachamale Technologies
 Technologies Used: Next.js, Node.js
               </sub>
+              
+          </p>
+           <p className="font-semibold w-full text-left text-2xl 
+          sm:text-2xl"> June/2024-september/2024<br/>
+            <sub className="font-light 
+            text-xl sm:text-sm md:text-lg text-gray-200 ">
+              {/* {data.data[1].description} */}
+              Frontend Developer Intern
+Company: Kachamale Technologies
+Technologies Used: Next.js, Node.js
+              </sub>
                <sub className="font-light 
             text-xl sm:text-sm md:text-lg text-gray-200 ">
               {/* {data.data[1].description} */}
